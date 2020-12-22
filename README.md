@@ -1,2 +1,2 @@
 # Music-Bot
-A Discord Music Bot made using discord.js v12
+[![](https://img.shields.io/discord/735772908877774858?style=for-the-badge)](https://discord.gg/Dedbrzu)
