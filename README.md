@@ -12,3 +12,13 @@ This Bot only supports keywords and Youtube links as of right now. Will be addin
 * `nowplaying` - Gives you the details about the currently playing song!
 
 ## Installation
+
+### Before You Begin
+Make Sure you have [Node.js](https://www.nodejs.org) installed (atleast v14.4) as well as Git.
+### Clone and Run
+* Use `https://github.com/IGRohan/Music-Bot.git` to clone this repository
+* Use `cd Music-Bot` to get inside the directory you just cloned
+* Install all the dependencies by using `npm install`. This may take a couple of minutes, and also make sure you do this in an admin terminal
+* Now rename the `.env.example` to `.env`
+* Edit the variables in `.env`. 
+* Now run the bot using `node .` or `node index.js`
